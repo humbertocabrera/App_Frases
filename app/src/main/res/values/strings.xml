@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App_Frases</string>
+    <string name="frase">Escribe un mesnaje por favor:</string>
+    <string name="texto">Escribe un mensaje por favor:</string>
+    <string name="aqui_escribe_tu_frase">Aqui escribe tu frase</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="enviar">Enviar</string>
+    <string name="estudia_en_el_iest_anahuac">Estudia en el IEST Anahuac</string>
+    <string name="mensaje">Por la fé y la razón EN JAVA</string>
+    <string name="bn_mas_info">Más Info</string>
+    <string name="regresar">Regresar</string>
+</resources>
